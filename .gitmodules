@@ -1,6 +1,6 @@
 [submodule "etelemetry-server"]
 	path = server
-	url = https://github.com/mgxd/fastapi-telemetry
+	url = https://github.com/mgxd/etserver
 
 [submodule "etelemetry-client"]
 	path = client
