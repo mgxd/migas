@@ -1,7 +1,7 @@
-[submodule "etelemetry-server"]
+[submodule "migas-server"]
 	path = server
-	url = https://github.com/mgxd/etserver
+	url = https://github.com/mgxd/migas-server
 
-[submodule "etelemetry-client"]
-	path = client
-	url = https://github.com/mgxd/etclient
+[submodule "migas-py"]
+	path = python-client
+	url = https://github.com/mgxd/migas-py
